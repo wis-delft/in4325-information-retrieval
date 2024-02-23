@@ -47,12 +47,11 @@ This is an issue of `ir_datasets` which seems to happen on Windows only. [There 
 
 TL;DR: Set the enrivonment variable `PYTHONUTF8=1`.
 
-<details>
-    <summary>Step-by-step guide</summary>
-    1. [Open the environment variable settings](img/pythonutf8_1.png).
-    2. [Create a new user environment variable](img/pythonutf8_2.png).
-    3. [Use `PYTHONUTF8` as variable name and `1` as value](img/pythonutf8_3.png).
-</details>
+#### Step-by-step guide
+
+1. [Open the environment variable settings](img/pythonutf8_1.png).
+2. [Create a new user environment variable](img/pythonutf8_2.png).
+3. [Use `PYTHONUTF8` as variable name and `1` as value](img/pythonutf8_3.png).
 
 **You have to restart Python (i.e., the notebook server) after this.**
 
