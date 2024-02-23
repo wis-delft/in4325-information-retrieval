@@ -1,0 +1,7 @@
+__pycache__
+scaffolding/index
+.vscode
+.DS_Store
+intro-pyterrier/shakespeare_index
+intro-pyterrier/nfcorpus_index_with_blocks
+intro-pyterrier/results
