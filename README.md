@@ -20,12 +20,12 @@ What you'll find **[on Brightspace](https://brightspace.tudelft.nl/d2l/home/5963
 
 ## Content
 
-| #   | File                                          | Title                |     |
-| --- | --------------------------------------------- | -------------------- | --- |
-| 00  | `scaffolding/00-task.ipynb`                   | Scaffolding project  |     |
-| 01  | `intro-pyterrier/01-setup.ipynb`              | Setup                |     |
-| 02  | `intro-pyterrier/02-indexing-retrieval.ipynb` | Indexing & retrieval |     |
-| 03  | `intro-pyterrier/03-datasets.ipynb`           | Datasets             |     |
+| #   | File                                          | Title                |                                                                                                                                                                                                                     |
+| --- | --------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 00  | `scaffolding/00-task.ipynb`                   | Scaffolding project  |                                                                                                                                                                                                                     |
+| 01  | `intro-pyterrier/01-setup.ipynb`              | Setup                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/01-setup.ipynb)              |
+| 02  | `intro-pyterrier/02-indexing-retrieval.ipynb` | Indexing & retrieval | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/02-indexing-retrieval.ipynb) |
+| 03  | `intro-pyterrier/03-datasets.ipynb`           | Datasets             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/03-datasets.ipynb)           |
 
 ## How to run the notebooks
 
