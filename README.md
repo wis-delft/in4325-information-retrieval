@@ -9,7 +9,7 @@ Found a bug or an error in one of the notebooks? We're happy to accept pull requ
 What you'll find **here**:
 
 - Project material (scaffolding project, final project)
-- Introduction to PyTerrier series
+- _Introduction to PyTerrier_ series
 
 What you'll find **[on Brightspace](https://brightspace.tudelft.nl/d2l/home/596319)**:
 
@@ -27,6 +27,7 @@ What you'll find **[on Brightspace](https://brightspace.tudelft.nl/d2l/home/5963
 | 02  | `intro-pyterrier/02-indexing-retrieval.ipynb`     | Indexing & retrieval     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/02-indexing-retrieval.ipynb)     |
 | 03  | `intro-pyterrier/03-datasets.ipynb`               | Datasets                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/03-datasets.ipynb)               |
 | 04  | `intro-pyterrier/04-evaluation-experiments.ipynb` | Evaluation & experiments | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/04-evaluation-experiments.ipynb) |
+| 05  | `intro-pyterrier/05-transformers.ipynb`           | Transformers             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/05-transformers.ipynb)           |
 
 ## How to run the notebooks
 
