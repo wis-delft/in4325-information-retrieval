@@ -2,8 +2,4 @@ __pycache__
 scaffolding/index
 .vscode
 .DS_Store
-intro-pyterrier/shakespeare_index
-intro-pyterrier/nfcorpus_index_with_blocks
-intro-pyterrier/bm25_cache
-intro-pyterrier/results
-intro-pyterrier/ffindex_fiqa_tasb.h5
+intro-pyterrier/*_data
