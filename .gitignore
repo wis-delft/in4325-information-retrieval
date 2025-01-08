@@ -4,5 +4,6 @@ scaffolding/index
 .DS_Store
 intro-pyterrier/shakespeare_index
 intro-pyterrier/nfcorpus_index_with_blocks
+intro-pyterrier/bm25_cache
 intro-pyterrier/results
-intro-pyterrier/ffindex_fiqa_tct.h5
+intro-pyterrier/ffindex_fiqa_tasb.h5
