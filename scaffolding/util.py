@@ -38,8 +38,8 @@ def evaluate(
         [pl],
         df,
         DATASET.get_qrels(),
-        eval_metrics=["map"],
-    )["map"][0]
+        eval_metrics=[pt.measures.MAP(rel=3)],
+    )["AP(rel=3)"][0]
 
 
 def evaluate_all(rewrite_func: Optional[Callable[[str], str]] = None) -> float:
