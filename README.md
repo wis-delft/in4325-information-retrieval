@@ -1,18 +1,17 @@
-# IN4325: Information retrieval
+# DSAIT4050: Information retrieval
 
-This is the repository accompanying the [IN4325 (information retrieval) lecture (2023/2024)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=64130) at TU Delft.
+This is the repository accompanying the DSAIT4050: Information Retrieval course at TU Delft.
 
 Here, we publish any hands-on material (i.e., Jupyter notebooks). The notebooks will be released alongside the lecture, so be sure to keep checking this repository every week!
 
-Found a bug or an error in one of the notebooks? We're happy to accept pull requests!
+Did you find a bug or an error in one of the notebooks? We're happy to accept pull requests!
 
 What you'll find **here**:
 
 - Project material (scaffolding project, final project)
 - _Introduction to PyTerrier_ series
 
-What you'll find **[on Brightspace](https://brightspace.tudelft.nl/d2l/home/596319)**:
-
+What you'll find **[on Brightspace](https://brightspace.tudelft.nl/d2l/home/680954)**:
 - Slides
 - Assignments
 - Announcements
@@ -49,7 +48,7 @@ We'll collect common issues and respective solutions here.
 
 This is an issue of `ir_datasets` which seems to happen on Windows only. [There is a fix already](https://github.com/allenai/ir_datasets/issues/208), but it hasn't been merged. A possible workaround is to set Python to use UTF-8 by default.
 
-TL;DR: Set the enrivonment variable `PYTHONUTF8=1`.
+TL;DR: Set the environment variable `PYTHONUTF8=1`.
 
 #### Step-by-step guide
 
