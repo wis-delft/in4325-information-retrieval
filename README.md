@@ -12,6 +12,7 @@ What you'll find **here**:
 - _Introduction to PyTerrier_ series
 
 What you'll find **[on Brightspace](https://brightspace.tudelft.nl/d2l/home/680954)**:
+
 - Slides
 - Assignments
 - Announcements
@@ -19,16 +20,16 @@ What you'll find **[on Brightspace](https://brightspace.tudelft.nl/d2l/home/6809
 
 ## Content
 
-| #   | File                                              | Title                    |                                                                                                                                                                                                                         |
-| --- | ------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 00  | `scaffolding/00-task.ipynb`                       | Scaffolding project      |                                                                                                                                                                                                                         |
-| 01  | `intro-pyterrier/01-setup.ipynb`                  | Setup                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/01-setup.ipynb)                  |
-| 02  | `intro-pyterrier/02-indexing-retrieval.ipynb`     | Indexing & retrieval     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/02-indexing-retrieval.ipynb)     |
-| 03  | `intro-pyterrier/03-datasets.ipynb`               | Datasets                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/03-datasets.ipynb)               |
-| 04  | `intro-pyterrier/04-evaluation-experiments.ipynb` | Evaluation & experiments | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/04-evaluation-experiments.ipynb) |
-| 05  | `intro-pyterrier/05-transformers.ipynb`           | Transformers             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/05-transformers.ipynb)           |
-| 06  | `intro-pyterrier/06-learning_to_rank.ipynb`       | Learning to rank         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/06-learning_to_rank.ipynb)       |
-| 07  | `intro-pyterrier/07-neural_models.ipynb`          | Neural ranking models    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/in4325-information-retrieval/blob/main/intro-pyterrier/07-neural_models.ipynb)          |
+| #   | File                                              | Title                    |                                                                                                                                                                                                                     |
+| --- | ------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 00  | `scaffolding/00-task.ipynb`                       | Scaffolding project      |                                                                                                                                                                                                                     |
+| 01  | `intro-pyterrier/01-setup.ipynb`                  | Setup                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/ms-information-retrieval/blob/main/intro-pyterrier/01-setup.ipynb)                  |
+| 02  | `intro-pyterrier/02-indexing-retrieval.ipynb`     | Indexing & retrieval     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/ms-information-retrieval/blob/main/intro-pyterrier/02-indexing-retrieval.ipynb)     |
+| 03  | `intro-pyterrier/03-datasets.ipynb`               | Datasets                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/ms-information-retrieval/blob/main/intro-pyterrier/03-datasets.ipynb)               |
+| 04  | `intro-pyterrier/04-evaluation-experiments.ipynb` | Evaluation & experiments | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/ms-information-retrieval/blob/main/intro-pyterrier/04-evaluation-experiments.ipynb) |
+| 05  | `intro-pyterrier/05-transformers.ipynb`           | Transformers             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/ms-information-retrieval/blob/main/intro-pyterrier/05-transformers.ipynb)           |
+| 06  | `intro-pyterrier/06-learning_to_rank.ipynb`       | Learning to rank         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/ms-information-retrieval/blob/main/intro-pyterrier/06-learning_to_rank.ipynb)       |
+| 07  | `intro-pyterrier/07-neural_models.ipynb`          | Neural ranking models    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wis-delft/ms-information-retrieval/blob/main/intro-pyterrier/07-neural_models.ipynb)          |
 
 ## How to run the notebooks
 
